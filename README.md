@@ -1,6 +1,6 @@
 # node-load-tweet
 
-* A small node.js script which posts a linux server's load uptime to your twitter timeline. *
+*A small node.js script which posts a linux server's load uptime to your twitter timeline.*
 
 ## Dependencies
     npm install ntwitter
