@@ -44,5 +44,5 @@ function tweet () {
  * Execute at the desired interval (miliseconds)
  */
 
-// 60000 (one minute), 3600000 (one hour), 28800000 (8 hours)
-setInterval(tweet,28800000);
+// 60000 (one minute), 3600000 (one hour), 28800000 (8 hours), 86400000 (24 hours)
+setInterval(tweet,86400000);
