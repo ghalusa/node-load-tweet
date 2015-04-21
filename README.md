@@ -6,7 +6,7 @@
     npm install ntwitter
 
 ## Configure
-* Rename cofig_example.js to config.js
+* Rename config_example.js to config.js
 * Add your Twitter keys to the conf.js file
 * Populate (or not) exports.prepend_status_content and exports.append_status_content
 
